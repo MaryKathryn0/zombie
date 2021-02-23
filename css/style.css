@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+    background: linear-gradient(to right, #002900 50%, #00A000 50%);
+    overflow: hidden;
+}
+
+h1 {
+    color: #EBFFEB;
+    writing-mode: vertical-rl; 
+    font-size: 50vw;
+    margin-left: auto;
+    overflow:hidden;
+    position:fixed;
+}
+
+.category {
+    margin-top: 50px;
+}
+.cat {
+    background-color: #EBFFEB;
+    color: #002900;
+    padding: 10px;
+    margin: auto;
+    margin: 30px;
+}
