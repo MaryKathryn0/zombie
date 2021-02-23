@@ -12,14 +12,18 @@ h1 {
     overflow:hidden;
     position:fixed;
 }
-
-.category {
-    margin-top: 50px;
+.flex-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
 .cat {
     background-color: #EBFFEB;
     color: #002900;
     padding: 10px;
     margin: auto;
     margin: 30px;
+    align-self: center;
 }
