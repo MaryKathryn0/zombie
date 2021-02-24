@@ -7,10 +7,11 @@ body {
 h1 {
     color: #EBFFEB;
     writing-mode: vertical-rl; 
-    font-size: 50vw;
-    margin-left: auto;
+    font-size: 25vh;
+    margin-right: auto;
     overflow:hidden;
     position:fixed;
+    margin-top: 10vh;
 }
 .flex-container{
     display:flex;
@@ -26,4 +27,8 @@ h1 {
     margin: auto;
     margin: 30px;
     align-self: center;
+}
+
+.category {
+    margin-top: 25vh;
 }
